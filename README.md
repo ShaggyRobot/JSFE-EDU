@@ -1,3 +1,3 @@
 # JSFE-EDU
 
-[core-JS](../blob/core-JS)
+[core-JS](/core-JS)
