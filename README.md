@@ -1,9 +1,5 @@
-# JSFE-EDU[^1]
+# GIT[^1]
 
-
-- [core-JS](https://github.com/ShaggyRobot/JSFE-EDU/blob/core-JS/README.md)
-- [core-TS](https://github.com/ShaggyRobot/JSFE-EDU/blob/core-TS/README.md)
-- [DB & ORMs](https://github.com/ShaggyRobot/JSFE-EDU/blob/DB/ORMs/README.md)
-- [React](https://github.com/ShaggyRobot/JSFE-EDU/blob/react/README.md)
+- [Git-quiz. Mere than 100 questions on git with answers and comments.](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/blob/master/git/git-quiz.md) 
 
 [^1]: [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
