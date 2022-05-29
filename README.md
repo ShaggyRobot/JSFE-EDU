@@ -1,4 +1,6 @@
+
 # JSFE-EDU[^1]
+![JS](assets/java-script.png)![TS](assets/typescript.png)![react](assets/react.png "Logo Title Text 1")![DB](assets/sql.png)![GIT](assets/github.png)
 
 
 - [core-JS](https://github.com/ShaggyRobot/JSFE-EDU/blob/master/core-JS.md)
