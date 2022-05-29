@@ -1,3 +1,3 @@
 # JSFE-EDU
 
-[core-JS](/core-JS)
+[core-JS](https://github.com/ShaggyRobot/JSFE-EDU/blob/core-JS/README.md)
